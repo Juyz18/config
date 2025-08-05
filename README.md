@@ -5,7 +5,7 @@ This is a golang package using for reading config file and producing map or stru
 ## II. Instructions
 - download the package
 ```
-go get github.com/tpgzcyyao/config
+go get github.com/Juyz18/config
 ```
 - import the package
 ```
@@ -131,7 +131,7 @@ type IPS struct {
 ## IV. Example
 - excute
 ```
-cd $GOPATH/src/github.com/tpgzcyyao/config/test
+cd $GOPATH/src/github.com/Juyz18/config/test
 go test
 ```
 - you can get the result below
@@ -179,6 +179,6 @@ The config struct is:
 ```
 - the path for example config file
 ```
-$GOPATH/src/github.com/tpgzcyyao/config/test/test.conf
+$GOPATH/src/github.com/Juyz18/config/test/test.conf
 ```
 

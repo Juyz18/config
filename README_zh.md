@@ -6,7 +6,7 @@
 ## 二、使用方法
 - 下载包
 ```
-go get github.com/tpgzcyyao/config
+go get github.com/Juyz18/config
 ```
 - 导入包
 ```
@@ -132,7 +132,7 @@ type IPS struct {
 ## 四、示例
 - 执行
 ```
-cd $GOPATH/src/github.com/tpgzcyyao/config/test
+cd $GOPATH/src/github.com/Juyz18/config/test
 go test
 ```
 - 会得到示例结果
@@ -180,5 +180,5 @@ The config struct is:
 ```
 - 示例配置文件位置
 ```
-$GOPATH/src/github.com/tpgzcyyao/config/test/test.conf
+$GOPATH/src/github.com/Juyz18/config/test/test.conf
 ```
