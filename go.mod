@@ -1,3 +1,3 @@
 module github.com/Juyz18/config
 
-go 1.13
+go 1.24.0
